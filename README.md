@@ -9,4 +9,4 @@ This repository contains the project files for CTR prediction.
 ## Contents
 - Jupyter Notebook
 - PDF Report
-- Additional professional files (.gitignore, LICENSE)
+- Additional professional files (.gitignore, LICENSE) ?
